@@ -1,0 +1,15 @@
+C:\Users\jlemo\source\repos\ProjetoAdote\ProjetoAdote\obj\Debug\net6.0\ProjetoAdote.csproj.AssemblyReference.cache
+C:\Users\jlemo\source\repos\ProjetoAdote\ProjetoAdote\obj\Debug\net6.0\ProjetoAdote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlemo\source\repos\ProjetoAdote\ProjetoAdote\obj\Debug\net6.0\ProjetoAdote.AssemblyInfoInputs.cache
+C:\Users\jlemo\source\repos\ProjetoAdote\ProjetoAdote\obj\Debug\net6.0\ProjetoAdote.AssemblyInfo.cs
+C:\Users\jlemo\source\repos\ProjetoAdote\ProjetoAdote\obj\Debug\net6.0\ProjetoAdote.csproj.CoreCompileInputs.cache
+C:\Users\jlemo\source\repos\ProjetoAdote\ProjetoAdote\bin\Debug\net6.0\ProjetoAdote.exe
+C:\Users\jlemo\source\repos\ProjetoAdote\ProjetoAdote\bin\Debug\net6.0\ProjetoAdote.deps.json
+C:\Users\jlemo\source\repos\ProjetoAdote\ProjetoAdote\bin\Debug\net6.0\ProjetoAdote.runtimeconfig.json
+C:\Users\jlemo\source\repos\ProjetoAdote\ProjetoAdote\bin\Debug\net6.0\ProjetoAdote.dll
+C:\Users\jlemo\source\repos\ProjetoAdote\ProjetoAdote\bin\Debug\net6.0\ProjetoAdote.pdb
+C:\Users\jlemo\source\repos\ProjetoAdote\ProjetoAdote\obj\Debug\net6.0\ProjetoAdote.dll
+C:\Users\jlemo\source\repos\ProjetoAdote\ProjetoAdote\obj\Debug\net6.0\refint\ProjetoAdote.dll
+C:\Users\jlemo\source\repos\ProjetoAdote\ProjetoAdote\obj\Debug\net6.0\ProjetoAdote.pdb
+C:\Users\jlemo\source\repos\ProjetoAdote\ProjetoAdote\obj\Debug\net6.0\ProjetoAdote.genruntimeconfig.cache
+C:\Users\jlemo\source\repos\ProjetoAdote\ProjetoAdote\obj\Debug\net6.0\ref\ProjetoAdote.dll
